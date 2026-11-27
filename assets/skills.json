@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these to match how you rate yourself; the workflow redraws the chart on push. 5-8 axes reads best.",
+  "axes": [
+    { "label": "SQL",           "value": 85 },
+    { "label": "Python",        "value": 80 },
+    { "label": "Power BI",      "value": 78 },
+    { "label": "Excel",         "value": 82 },
+    { "label": "Statistics",    "value": 70 },
+    { "label": "Storytelling",  "value": 75 },
+    { "label": "ML / GenAI",    "value": 65 }
+  ]
+}

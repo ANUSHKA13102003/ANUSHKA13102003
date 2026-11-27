@@ -1,0 +1,17 @@
+{
+  "_comment": "Featured repos, in README order. Stars, forks and language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "ecommerce-revenue-retention-intelligence",
+      "description": "Where does a marketplace lose customers and revenue? 99K Olist orders analysed in SQL, Python and Power BI, ending in three actions the business can take."
+    },
+    {
+      "repo": "retail-sales-analytics-excel",
+      "description": "Interactive Excel dashboard on retail store sales: performance, customer segments, regional trends, product demand and sales channels."
+    },
+    {
+      "repo": "sql-50-leetcode",
+      "description": "LeetCode's SQL 50 study plan, solved and explained: joins, aggregations, window functions, subqueries. Committed daily by a GitHub Actions pipeline."
+    }
+  ]
+}
