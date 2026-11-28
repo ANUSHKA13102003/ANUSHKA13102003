@@ -131,9 +131,6 @@ I like the part of analysis where a messy table finally turns into a clear answe
 
 <img src="assets/metrics.languages.svg" height="165" alt="most used languages">
 
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
 
 </div>
 
@@ -174,16 +171,6 @@ I like the part of analysis where a messy table finally turns into a clear answe
 </td>
 </tr>
 </table>
-
-<sub>
-
-| project | what it answers | stack |
-|---|---|---|
-| **[CommerceLens](https://github.com/ANUSHKA13102003/ecommerce-revenue-retention-intelligence)** | Where a marketplace loses customers and revenue (67% of revenue from top 10% of sellers; 2.16% true repeat rate) | `SQL` `Python` `Power BI` `DuckDB` `Streamlit` |
-| **[Retail Sales Dashboard](https://github.com/ANUSHKA13102003/retail-sales-analytics-excel)** | Which customers, regions, products and channels drive a store's sales | `Excel` `Pivot Tables` |
-| **[SQL 50](https://github.com/ANUSHKA13102003/sql-50-leetcode)** | Interview-grade SQL, solved and explained | `SQL` `GitHub Actions` |
-
-</sub>
 
 </div>
 
